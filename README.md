@@ -1,4 +1,4 @@
-# Guss The Number
+# Guess The Number
 
 The goal of the project is to make the user provide three inputs, the upper bound and the lower bound number, and the number of attempts to generate a random integer between the upper and lower number and providing the user as many attempts as specified by the user to solve it.
 
